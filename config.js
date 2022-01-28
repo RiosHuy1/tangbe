@@ -10,7 +10,7 @@ const CONFIG = {
     question:'Như nàooooo ',
     reasonPlaceholder: 'Kể điiii',
     btnReply: 'Gửi!',
-    reply: ' ',
+    reply: ' Vậy nhaaa ',
     mess: 'Quay lại messenger đi =))))',
     messDesc: 'Chú bên đó á =))))',
     btnAccept: 'Biết gòiiii',
